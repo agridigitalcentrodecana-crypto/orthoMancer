@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="large_horizontal.png" width="850"/>
+</div>
+
 # orthoMancer: Remote-sensing phenotyping pipeline
 
 A modular R pipeline (orchestrated with **targets**) that starts from RGB/multispectral orthomosaics, DSMs, DTMs and the field layout (plot map), and ends with block-adjusted means per breeding material.
